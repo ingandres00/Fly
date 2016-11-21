@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  plane_id: 1
+  flight_id: 
+  depurate_time: 2016-11-15 20:03:07
+
+two:
+  plane_id: 1
+  flight_id: 
+  depurate_time: 2016-11-15 20:03:07

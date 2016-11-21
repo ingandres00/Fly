@@ -1,0 +1,18 @@
+// Place all the styles related to the cities controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.city{
+  max-width:  25px;
+  min-height: 25px;
+  background-color: white;
+  box-shadow: 2px 2px 2px black;
+  margin:  0 15px;
+  ul{
+    list-style: none;
+    list-style: none;
+  }
+}
+.cities-controls{
+  margin-bottom: 20px;
+}

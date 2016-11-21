@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  origin_airport_id: 1
+  destination_airport_id: 1
+  periodicity: 1
+  periodicity_time: 2016-11-15 20:01:25
+  avg_time: 1
+  airline_id: 1
+
+two:
+  origin_airport_id: 1
+  destination_airport_id: 1
+  periodicity: 1
+  periodicity_time: 2016-11-15 20:01:25
+  avg_time: 1
+  airline_id: 1
